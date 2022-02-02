@@ -1,6 +1,8 @@
 ### WATER REMEMBER
 Program that reminds you to drink water written in Golang!
 
+[![N|Solid](https://github.com/Raposo5000/water-remember-go/blob/main/screenshot.png?raw=true)
+
 ## Install dependencies
 Run the command in shell
 ```sh
