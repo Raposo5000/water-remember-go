@@ -6,6 +6,12 @@ Run the command in shell
 ```sh
 go get
 ```
+## Run
+Run the command in shell
+```sh
+go run main.go
+```
+
 
 ## build
 Run the command in shell
