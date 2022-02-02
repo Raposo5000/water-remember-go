@@ -12,7 +12,6 @@ Run the command in shell
 go run main.go
 ```
 
-
 ## build
 Run the command in shell
 ```sh
