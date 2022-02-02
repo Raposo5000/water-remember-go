@@ -15,5 +15,7 @@ go build
 
 ## Configurations
 In the main.go file, change the following variables
+
 ```seconds_drink```: Sets the time that indicates when to have a drink
+
 ```ml_per_drink```: Sets the amount of ml consumed per drink
